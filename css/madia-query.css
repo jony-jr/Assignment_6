@@ -274,6 +274,12 @@
   .footer-container div span {
     margin: 0 0.5rem;
   }
+  .footer-container p{
+    font-size: 15px;
+  }
+  /* ---------------- */
+  .top-botton {
+    bottom: 30px;}
 }
 
 @media screen and (max-width: 380px) {
