@@ -1051,7 +1051,6 @@ nav {
 }
 .port-card:hover .port-card-layer {
   opacity: 1;
-  transform: scale(1.02);
 }
 
 /* ---------------CONTACTS-------------------- */
